@@ -40,6 +40,7 @@ bin
 obj
 packages
 .idea
+.vs
 
 *.nupkg
 *.nuspec
